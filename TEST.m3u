@@ -1,19 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-chno="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Astro_Ria_%28Nov_2024%29.png/revision/latest?cb=20241121174644",Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="indian test" group-logo="https://em-content.zobj.net/source/google/439/flag-india_1f1ee-1f1f3.png",995 TEST_995
+https://mumt04.tangotv.in/VASANTHTV/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-chno="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Astro_Prima_%28Dec_2024%29.png/revision/latest?cb=20241121184003",Astro Prima
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="oriental test" group-logo="https://em-content.zobj.net/source/google/439/folding-hand-fan_1faad.png",996 TEST_996
+https://cdn6.163189.xyz/163189/tvbxh
 
-#EXTINF:-1  tvg-id="" tvg-chno="124" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra_%28Nov_2024%29.png/revision/latest?cb=20241121174648",Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="variety test" group-logo="https://em-content.zobj.net/source/google/439/performing-arts_1f3ad.png",997 TEST_997
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="knowledge test" group-logo="https://em-content.zobj.net/source/google/439/magnifying-glass-tilted-left_1f50d.png",998 TEST_998
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8

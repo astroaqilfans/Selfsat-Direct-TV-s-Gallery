@@ -1,25 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="indian test" group-logo="https://em-content.zobj.net/source/google/439/flag-india_1f1ee-1f1f3.png",995 TEST_995
-https://mumt04.tangotv.in/VASANTHTV/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#EXTINF:-1 tvg-name="Astro Warna HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Astro_Warna_%28Dec_2024%29.png",107 Astro Warna
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+https://get.perfecttv.net/linear.mpd?channel=abo&username=perfecttv|authorization=Bearer
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="oriental test" group-logo="https://em-content.zobj.net/source/google/439/folding-hand-fan_1faad.png",996 TEST_996
-https://cdn6.163189.xyz/163189/tvbxh
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="variety test" group-logo="https://em-content.zobj.net/source/google/439/performing-arts_1f3ad.png",997 TEST_997
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="knowledge test" group-logo="https://em-content.zobj.net/source/google/439/magnifying-glass-tilted-left_1f50d.png",998 TEST_998
-https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="sports test" tvg-logo="",994 TEST_994
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
-
-#EXTINF:-1 tvg-id="" group-title="sports test" tvg-logo="",815 TEST_993
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-name="Astro Sensasi HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png",123 Astro Sensasi
+#KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
+https://get.perfecttv.net/linear.mpd?channel=sensasi&username=perfecttv|authorization=Bearer

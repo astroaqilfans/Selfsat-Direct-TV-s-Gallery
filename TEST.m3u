@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTM3U url-tvg="https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://walpak1.github.io/epg/mana2.xml,https://raw.githubusercontent.com/yufeilai666/test/main/epg/mytvsuper.xml.gz,https://www.open-epg.com/files/malaysia1.xml,https://www.open-epg.com/files/malaysia2.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/hongkong4.xml.gz,https://www.open-epg.com/files/indonesia2.xml" refresh="2" max-conn="1" refresh="4" vod_library="https://github.com/ediey7523017/tv/raw/main/AstroVOD" billed-msg="Selfsat Direct TV For Testing"
+#EXTM3U url-tvg="https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml" 
 
-
-#EXTINF:-1  group-title="FTA/Local" tvg-id="101.astro" tvg-chno="101" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311",TV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+#EXTINF:-1  group-title="Kids" tvg-id="556893" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/3/33/Kartoon_Channel%21.jpeg/revision/latest?cb=20250804203623",TEST1 HD
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+https://gooo.blog/opix/genx.m3u8?id=kartoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc

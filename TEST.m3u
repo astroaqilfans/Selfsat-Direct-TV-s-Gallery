@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTM3U url-tvg="https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml" 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 
-#EXTINF:-1  group-title="Kids" tvg-id="556893" tvg-chno="560" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/3/33/Kartoon_Channel%21.jpeg/revision/latest?cb=20250804203623",TEST1 HD
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://gooo.blog/opix/genx.m3u8?id=kartoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:-1  group-title="Others" tvg-id="JimJam.bg" tvg-chno="980" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST1_HD.png",TEST1 HD
+http://103.180.212.191:3500/live/978.m3u8
+
+#EXTINF:-1  group-title="Others" tvg-id="JimJam.hu" tvg-chno="981" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST2_HD.png",TEST2 HD
+http://103.180.212.191:3500/live/979.m3u8
+
+#EXTINF:-1  group-title="Others" tvg-id="JimJam.mt" tvg-chno="982" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST3_HD.png",TEST3 HD
+http://103.180.212.191:3500/live/1059.m3u8
+
+#EXTINF:-1  group-title="Others" tvg-id="Jimjam.ro" tvg-chno="983" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST8_HD.png",TEST8 HD
+http://103.180.212.191:3500/live/1148.m3u8
+
+#EXTINF:-1  group-title="Others" tvg-id="JimJam.ro" tvg-chno="984" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST5_HD.png",TEST5 HD
+http://103.180.212.191:3500/live/1061.m3u8

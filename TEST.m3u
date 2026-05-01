@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTM3U url-tvg="https://www.open-epg.com/files/bosnia1.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/croatia1.xml,https://www.open-epg.com/files/montenegro1.xml,https://www.open-epg.com/files/serbia4.xml" 
+#EXTM3U
 
-#EXTINF:-1  group-title="Others" tvg-id="JimJam.ba" tvg-chno="980" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST1_HD.png",TEST1 HD
-http://103.180.212.191:3500/live/978.m3u8
-
-#EXTINF:-1  group-title="Others" tvg-id="JimJam.bg" tvg-chno="981" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST2_HD.png",TEST2 HD
-http://103.180.212.191:3500/live/979.m3u8
-
-#EXTINF:-1  group-title="Others" tvg-id="Jim Jam (SR).hr" tvg-chno="982" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST3_HD.png",TEST3 HD
-http://103.180.212.191:3500/live/1059.m3u8
-
-#EXTINF:-1  group-title="Others" tvg-id="Jim Jam (SR).me" tvg-chno="983" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST8_HD.png",TEST8 HD
-http://103.180.212.191:3500/live/1148.m3u8
-
-#EXTINF:-1  group-title="Others" tvg-id="Jim Jam (SR).rs" tvg-chno="984" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST5_HD.png",TEST5 HD
-http://103.180.212.191:3500/live/1061.m3u8

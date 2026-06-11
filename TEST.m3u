@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTM3U
+#EXTM3U 
 
+#EXTINF:-1  group-title="FTA/Local" tvg-id="Okey" tvg-chno="110" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TV_Okey_%282019%29.svg/revision/latest?cb=20240714045054" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",TV Okey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://71f2efe7.drm-widevine-licensing.axprod.net/AcquireLicense
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/HLS/okey-avc1_3000000=1985961624.m3u8

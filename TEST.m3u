@@ -3,8 +3,7 @@
 
 
 #EXTINF:-1 group-title="Unifi TV",Test1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(parlimen)/master.mpd?kid=dce6cb33-8901-4684-b2ab-c82f6a478bff
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://cignalplaymaxcdn.qzz.io/bbc_lstylehd/sanjuantv/manifest.mpd

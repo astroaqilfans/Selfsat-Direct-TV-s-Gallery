@@ -3,7 +3,3 @@
 
 
 #EXTINF:-1 group-title="Unifi TV",Test1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cignalplaymaxcdn.qzz.io/bbc_lstylehd/sanjuantv/manifest.mpd
